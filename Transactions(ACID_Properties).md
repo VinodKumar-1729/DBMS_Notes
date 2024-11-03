@@ -77,3 +77,5 @@ ACID is a set of properties that guarantee reliable transaction processing and m
    - **Benefit**: Allows for database restoration to the most recent committed state post-crash.
 
 ---
+
+**GFG Link :** https://www.geeksforgeeks.org/concurrency-control-in-dbms/
