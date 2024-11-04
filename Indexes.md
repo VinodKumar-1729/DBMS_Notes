@@ -117,3 +117,8 @@ To maximize efficiency, keep the following tips in mind:
 - **Indexed Columns in Joins**: Indexing foreign key columns in join operations can be crucial for optimizing multi-table queries.
 
 ---
+
+**GFG Links :** 
+- https://www.geeksforgeeks.org/indexing-in-databases-set-1/
+- https://www.geeksforgeeks.org/introduction-of-b-tree-2/
+- https://www.geeksforgeeks.org/introduction-of-b-tree/
