@@ -112,3 +112,7 @@ Databases can be broadly categorized into various types based on their structure
 - **Centralized vs. Cloud Databases:**
   - Centralized databases focus on single-location data management.
   - Cloud databases leverage distributed architecture for flexibility and remote access.
+
+
+
+**GFG LINK:** https://www.geeksforgeeks.org/types-of-databases/
