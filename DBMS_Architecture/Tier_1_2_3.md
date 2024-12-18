@@ -68,3 +68,6 @@ In 3-Tier Architecture, an intermediate layer (application server) exists betwee
 The choice of DBMS architecture depends on the complexity and scalability requirements of the system. For small projects or learning, 1-Tier Architecture suffices. Medium-scale applications benefit from 2-Tier Architecture, while 3-Tier Architecture is ideal for large-scale and modern database systems due to its scalability, security, and integrity.
 
 ---
+
+
+**GFG Link :** https://www.geeksforgeeks.org/dbms-architecture-2-level-3-level/?ref=lbp
