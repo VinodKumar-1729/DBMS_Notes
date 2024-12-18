@@ -83,3 +83,4 @@ Specifies the number of times an entity participates in a relationship.
 ### Conclusion
 The ER model provides a systematic way to visually represent a database’s logical structure, simplifying database design and improving understanding. Entities, attributes, and relationships are represented graphically, making it an invaluable tool for database administrators and designers.
 
+**GFG Link :** https://www.geeksforgeeks.org/introduction-of-er-model/
