@@ -60,3 +60,4 @@ File systems manage data as individual files on a hard disk, leading to issues s
 ### Conclusion
 A Database Management System (DBMS) is indispensable for managing large volumes of data securely and efficiently. Its features such as data integrity, concurrent access, and robust backup mechanisms make it a cornerstone of modern data-driven applications. While there are challenges like complexity and cost, the benefits far outweigh the drawbacks, ensuring its continued importance in diverse industries.
 
+**GFG Link :** https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/?ref=lbp
